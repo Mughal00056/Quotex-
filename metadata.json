@@ -1,0 +1,6 @@
+{
+  "name": "Quotex Pro Trading Platform",
+  "description": "Quotex style binary options broker with offline/online trading, deposit & withdrawal cashier, candlestick charts, indicators, and transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
